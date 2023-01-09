@@ -1,5 +1,5 @@
 {
-    "name": "kelplant/keyvalueformbundle",
+    "name": "kelplant/KeyValueFormBundle",
     "license": "MIT",
     "type": "bundle",
     "description": "A form type for managing key-value pairs",
