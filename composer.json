@@ -7,7 +7,7 @@
         "psr-4": { "Burgov\\Bundle\\KeyValueFormBundle\\": "" }
     },
     "require": {
-        "php": ">=5.3.3",
+        "php": ">=5.3.3"
     },
     "extra": {
         "branch-alias": {
